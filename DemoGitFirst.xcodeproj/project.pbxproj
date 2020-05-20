@@ -17,6 +17,7 @@
 		B601BBC22475156200A0A37B /* DemoGitFirstTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B601BBC12475156200A0A37B /* DemoGitFirstTests.swift */; };
 		B601BBCD2475156200A0A37B /* DemoGitFirstUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B601BBCC2475156200A0A37B /* DemoGitFirstUITests.swift */; };
 		B66945B42475186A004F2328 /* aaaaaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B66945B32475186A004F2328 /* aaaaaViewController.swift */; };
+		B6DDB85424751DD60099FE67 /* bbbbbbViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6DDB85324751DD60099FE67 /* bbbbbbViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		B601BBCC2475156200A0A37B /* DemoGitFirstUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoGitFirstUITests.swift; sourceTree = "<group>"; };
 		B601BBCE2475156200A0A37B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B66945B32475186A004F2328 /* aaaaaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aaaaaViewController.swift; sourceTree = "<group>"; };
+		B6DDB85324751DD60099FE67 /* bbbbbbViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bbbbbbViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				B601BBB82475156100A0A37B /* Info.plist */,
 				B601BBB02475155D00A0A37B /* DemoGitFirst.xcdatamodeld */,
 				B66945B32475186A004F2328 /* aaaaaViewController.swift */,
+				B6DDB85324751DD60099FE67 /* bbbbbbViewController.swift */,
 			);
 			path = DemoGitFirst;
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 			files = (
 				B601BBAC2475155C00A0A37B /* ViewController.swift in Sources */,
 				B601BBA82475155C00A0A37B /* AppDelegate.swift in Sources */,
+				B6DDB85424751DD60099FE67 /* bbbbbbViewController.swift in Sources */,
 				B601BBB22475155D00A0A37B /* DemoGitFirst.xcdatamodeld in Sources */,
 				B66945B42475186A004F2328 /* aaaaaViewController.swift in Sources */,
 				B601BBAA2475155C00A0A37B /* SceneDelegate.swift in Sources */,
